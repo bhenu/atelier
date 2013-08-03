@@ -21,7 +21,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
-    background: #F7F7F8;
+    background: #2c2c2c;
 }
 
 /*
@@ -378,6 +378,6 @@ display: block;
     font-size: 0.8em;
     list-style: none outside none;
     text-shadow: none;
-    margin: 5px;
+    margin: 4px 20px 4px 20px;
     border-top: 1px dashed #c4c4c4;
 }
