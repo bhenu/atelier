@@ -28,7 +28,9 @@
 
         <div class="base">
             <div class="header">
-                <div class="logo">Atelier Art</div>
+                <div class="logo">
+                    <img alt="logo" width="200" src="../logo.jpg" />
+                </div>
                 <div id="nav-wrapper">
                     <ul id="navbar">
                         <li class="menu" >Home
