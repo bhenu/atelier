@@ -377,4 +377,6 @@ display: block;
     font-size: 0.8em;
     list-style: none outside none;
     text-shadow: none;
+    margin: 5px;
+    border-top: 1px dashed #c4c4c4;
 }
