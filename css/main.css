@@ -310,6 +310,7 @@ textarea {
     /*border: 1px solid #c4c4c4;*/
     height: 900px;
     overflow: hidden;
+    background: #f7f7f7;
 }
 
 .logo {
@@ -341,7 +342,7 @@ display: block;
     width: 797px;
 }
 .menu {
-    background: none repeat scroll 0 0 #F7F7F8;
+    background: none repeat scroll 0 0 #F7F7F7;
     display: block;
     float: left;
     font-family: 'Roboto Condensed',sans-serif;
